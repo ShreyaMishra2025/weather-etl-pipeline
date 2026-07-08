@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 77.2167,
+    "lat": 28.6667
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 32.52,
+    "feels_like": 37.35,
+    "temp_min": 32.52,
+    "temp_max": 32.52,
+    "pressure": 995,
+    "humidity": 57,
+    "sea_level": 995,
+    "grnd_level": 970
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2.75,
+    "deg": 42,
+    "gust": 3.92
+  },
+  "clouds": {
+    "all": 99
+  },
+  "dt": 1783507273,
+  "sys": {
+    "country": "IN",
+    "sunrise": 1783468761,
+    "sunset": 1783518752
+  },
+  "timezone": 19800,
+  "id": 1273294,
+  "name": "Delhi",
+  "cod": 200
+}

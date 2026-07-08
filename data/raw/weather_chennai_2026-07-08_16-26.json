@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": 80.2785,
+    "lat": 13.0878
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 37.75,
+    "feels_like": 44.75,
+    "temp_min": 36.72,
+    "temp_max": 38.33,
+    "pressure": 1001,
+    "humidity": 46,
+    "sea_level": 1001,
+    "grnd_level": 1000
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 3.13,
+    "deg": 222,
+    "gust": 4.02
+  },
+  "clouds": {
+    "all": 100
+  },
+  "dt": 1783507891,
+  "sys": {
+    "type": 2,
+    "id": 2104103,
+    "country": "IN",
+    "sunrise": 1783469872,
+    "sunset": 1783516171
+  },
+  "timezone": 19800,
+  "id": 1264527,
+  "name": "Chennai",
+  "cod": 200
+}

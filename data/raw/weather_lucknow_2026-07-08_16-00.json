@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 80.9167,
+    "lat": 26.85
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 34.45,
+    "feels_like": 40.52,
+    "temp_min": 34.45,
+    "temp_max": 34.45,
+    "pressure": 995,
+    "humidity": 53,
+    "sea_level": 995,
+    "grnd_level": 981
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 7,
+    "deg": 137,
+    "gust": 8.43
+  },
+  "clouds": {
+    "all": 87
+  },
+  "dt": 1783506186,
+  "sys": {
+    "country": "IN",
+    "sunrise": 1783468115,
+    "sunset": 1783517623
+  },
+  "timezone": 19800,
+  "id": 1264733,
+  "name": "Lucknow",
+  "cod": 200
+}
